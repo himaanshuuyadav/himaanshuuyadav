@@ -17,7 +17,6 @@
 - 🌱 Learning **JavaScript, Python, Flask, Kotlin**
 - 🎯 Goal: **To reach the top, make my parents proud, and build cool useful tech**
 - 🎮 I love games, code, deep thoughts, and storytelling!
-- 📺 I also run a YouTube Channel – [SheCarriesLight](https://www.youtube.com/@SheCarriesLight)
 
 ---
 
@@ -43,7 +42,7 @@
 <p>
   <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-DarkRed?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourprofile"><img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://twitter.com/himaanshuuyadav"><img src="https://img.shields.io/badge/Twitter-skyblue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
 
 ---
