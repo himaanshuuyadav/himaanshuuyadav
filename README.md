@@ -21,7 +21,7 @@
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,react,nodejs,docker,git,github,vscode,firebase,vercel&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=dart,html,css,python,git,github,vscode,vercel&perline=6)](https://skillicons.dev)
 
 ---
 
