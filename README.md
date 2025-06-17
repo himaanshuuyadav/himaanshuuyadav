@@ -21,16 +21,7 @@
 
 ---
 
-<!-- Stickers & Badges -->
-### ⚡ Tech Stack & Tools:
-<p align="left">
-  <img src="https://img.shields.io/badge/Code-Kotlin-orange?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Backend-Flask-blue?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-red?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JS-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Database-SQLite-lightgrey?style=for-the-badge&logo=sqlite&logoColor=blue"/>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=dart,flutter,html,css,react,nodejs,docker,git,github,vscode,firebase,vercel&perline=6)](https://skillicons.dev)
 
 ---
 
@@ -43,18 +34,6 @@
 
 ---
 
-<!-- Fun Section with Stickers -->
-### 💫 Little More About Me:
-
-<p>
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="150"/>
-</p>
-
-> 🌟 *I believe in hope, growth, and making the world a little better with code.*
-
----
 
 <!-- Connect with Me -->
 ### 📫 Connect with Me:
@@ -66,6 +45,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=ff6b81&center=true&vCenter=true&lines=Thanks+for+visiting+my+profile!;Happy+Coding!+🚀" />
-</p>
+
