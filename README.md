@@ -1,7 +1,3 @@
-<!-- Profile Header Image (Optional) -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Himanshu%20Yadav%20👨‍💻&fontSize=40&fontColor=ffffff" />
-</p>
 
 <!-- Introduction Section -->
 <h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
