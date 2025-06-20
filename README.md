@@ -27,12 +27,12 @@
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimaanshuuYadav&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaanshuuYadav&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshuuyadav&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Himaanshuuyadav&theme=tokyonight" />
 </p>
 <!-- Most Used Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaanshuuYadav&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshuuyadav&layout=compact&theme=tokyonight" />
 </p>
 
 ---
