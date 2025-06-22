@@ -25,10 +25,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himaanshuuyadav&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=himaanshuuyadav&theme=tokyonight&hide_border=false" />
-
-</p>
-<!-- Most Used Languages -->
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshuuyadav&layout=compact&theme=tokyonight" />
 </p>
 
