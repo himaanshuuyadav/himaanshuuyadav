@@ -18,7 +18,7 @@ const Himanshu = {
   techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
   passion: "Building meaningful and useful tools 🚀"
 };
-'''
+```
 
 
 ---
