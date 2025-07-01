@@ -1,6 +1,6 @@
 
 <!-- Introduction Section -->
-<h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
+<h2>Hey there! 👋 I'm Himanshu Yadav</h2>
 <p align="center">
   <em>A passionate learner, developer, and explorer from India 🇮🇳</em>
 </p>
