@@ -20,25 +20,28 @@ const Himanshu = {
 ```
 
 
----
+
 ### ⚡ Tech Stack & Tools:
+---
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,github,vscode,vercel&perline=10)](https://skillicons.dev)
 
----
+
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats:
+---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himaanshuuyadav&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=himaanshuuyadav&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshuuyadav&layout=compact&theme=tokyonight" />
 </p>
 
----
+
 
 
 <!-- Connect with Me -->
 ### 📫 Connect with Me:
+---
 <p align="left">
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
@@ -57,6 +60,5 @@ const Himanshu = {
   </a>
 </p>
 
----
 
 
