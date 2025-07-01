@@ -8,11 +8,17 @@
 ---
 
 <!-- About Me -->
-### 🧑‍💻 About Me:
-- 🔭 I’m currently working on **UniLocator – a real-time location tracker**
-- 🌱 Learning **JavaScript, Python, Flask, Kotlin**
-- 🎯 Goal: **To reach the top, make my parents proud, and build cool useful tech**
-- 🎮 I love games, code, deep thoughts, and storytelling!
+### 👨‍💻 About Me
+
+```js
+const Himanshu = {
+  role: "Aspiring Developer",
+  focus: "Full Stack Development & Real-Time Apps",
+  hobbies: ["Coding", "Gaming", "Chess", "Exploring tech", "Creating apps"],
+  techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
+  passion: "Building meaningful and useful tools 🚀"
+};
+
 
 ---
 ### ⚡ Tech Stack & Tools:
