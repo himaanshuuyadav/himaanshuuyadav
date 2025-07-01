@@ -6,7 +6,7 @@
 </p>
 
 <!-- About Me -->
-<h2>👨‍💻 About me</h2>
+<h2>👨‍💻 About me:</h2>
 
 ```js
 const Himanshu = {
@@ -20,24 +20,26 @@ const Himanshu = {
 <br>
 
 <h2>⚡ Tech Stack & Tools:</h2>
-### ⚡ Tech Stack & Tools:
+
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,github,vscode,vercel&perline=10)](https://skillicons.dev)
 
 <br>
 
 <!-- GitHub Stats -->
-### 📈 GitHub Stats:
+<h2>📈 GitHub Stats:</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Himaanshuuyadav&show_icons=true&theme=tokyonight" />
   <img src="https://streak-stats.demolab.com?user=himaanshuuyadav&theme=tokyonight&hide_border=false" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshuuyadav&layout=compact&theme=tokyonight" />
 </p>
 
-
+<br>
 
 
 <!-- Connect with Me -->
-### 📫 Connect with Me:
+<h2>📫 Connect with Me:</h2>
+
 <p align="left">
   <a href="mailto:youremail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
