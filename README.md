@@ -5,11 +5,9 @@
   <em>A passionate learner, developer, and explorer from India 🇮🇳</em>
 </p>
 
----
-<hr style="height:0.5px; border:none; background-color:#444;" />
-
 <!-- About Me -->
 ### 👨‍💻 About Me
+--
 
 ```js
 const Himanshu = {
