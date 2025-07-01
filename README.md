@@ -17,9 +17,7 @@ const Himanshu = {
   passion: "Building meaningful and useful tools 🚀"
 };
 ```
-
-
-
+<br>
 ### ⚡ Tech Stack & Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,github,vscode,vercel&perline=10)](https://skillicons.dev)
 
