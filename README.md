@@ -6,7 +6,7 @@
 </p>
 
 ---
-<hr style="height:1px; border:none; background-color:#444;" />
+<hr style="height:0.5px; border:none; background-color:#444;" />
 
 <!-- About Me -->
 ### 👨‍💻 About Me
