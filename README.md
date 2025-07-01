@@ -6,7 +6,7 @@
 </p>
 
 <!-- About Me -->
-### 👨‍💻 About Me
+<h2>👨‍💻 About Me</h2>
 
 ```js
 const Himanshu = {
