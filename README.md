@@ -6,7 +6,7 @@
 </p>
 
 <!-- About Me -->
-<h2>👨‍💻 About Me</h2>
+<h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
 
 ```js
 const Himanshu = {
