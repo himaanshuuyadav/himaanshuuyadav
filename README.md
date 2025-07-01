@@ -8,9 +8,9 @@
 
 ```js
 const Himanshu = {
-  role: "Aspiring Developer",
+  role: "Self-Taught Developer",
   focus: "Full Stack Development & Real-Time Apps",
-  hobbies: ["Coding", "Gaming", "Chess", "Exploring tech", "Creating apps"],
+  hobbies: ["Coding", "Exploring tech", "Creating apps", "Gaming", "Chess"],
   techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
   passion: "Building meaningful and useful tools 🚀"
 };
