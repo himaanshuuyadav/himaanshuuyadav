@@ -1,9 +1,7 @@
 
 <!-- Introduction Section -->
-<h2>Hey there! 👋 I'm Himanshu Yadav</h2>
-<p align="center">
-  <em>A passionate learner, developer, and explorer from India 🇮🇳</em>
-</p>
+<h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
+
 
 <!-- About Me -->
 <h2>👨‍💻 About me:</h2>
