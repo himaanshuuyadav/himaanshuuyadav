@@ -7,7 +7,7 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me
---
+---
 
 ```js
 const Himanshu = {
