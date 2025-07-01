@@ -19,10 +19,11 @@ const Himanshu = {
 ```
 <br>
 
+<h2>⚡ Tech Stack & Tools:</h2>
 ### ⚡ Tech Stack & Tools:
 [![My Skills](https://skillicons.dev/icons?i=html,css,python,git,github,vscode,vercel&perline=10)](https://skillicons.dev)
 
-
+<br>
 
 <!-- GitHub Stats -->
 ### 📈 GitHub Stats:
