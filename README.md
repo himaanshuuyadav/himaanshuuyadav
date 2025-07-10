@@ -27,10 +27,13 @@ const Himanshu = {
 <h2>📈 GitHub Stats:</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himaanshuuyadav&show_icons=true&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com?user=himaanshuuyadav&theme=tokyonight&hide_border=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himaanshuuyadav&layout=compact&theme=tokyonight" />
+  
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaanshuuyadav&show_icons=true&hide_title=true&count_private=true&theme=radical&rank_icon=github)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshuuyadav&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 </p>
+
+
 
 <br>
 
