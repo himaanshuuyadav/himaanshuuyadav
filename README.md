@@ -1,4 +1,3 @@
-
 <!-- Introduction Section -->
 <h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
 
