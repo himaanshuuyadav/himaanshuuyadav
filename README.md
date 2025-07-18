@@ -1,5 +1,5 @@
 <!-- Introduction Section -->
-<h2 align="center">Hey there! 👋 I'm Himanshu Yadav</h2>
+<h3 align="center">Hey there! 👋 I'm Himanshu Yadav</h3>
 
 
 <!-- About Me -->
