@@ -1,6 +1,10 @@
 <!-- Introduction Section -->
 <h3 align="center">Hey there! 👋 I'm Himanshu Yadav</h3>
 
+<p align="center">
+  <img src="imges/img1.png" alt="Demo Screenshot" width="400"/>
+</p>
+
 
 <!-- About Me -->
 <h2>👨‍💻 About me:</h2>
