@@ -2,7 +2,7 @@
 <h3 align="center">Hey there! 👋 I'm Himanshu Yadav</h3>
 
 <p align="center">
-  <img src="imges/img1.png" alt="Demo Screenshot" width="400"/>
+  <img src="images/img1.png" alt="Demo Screenshot" width="400"/>
 </p>
 
 
