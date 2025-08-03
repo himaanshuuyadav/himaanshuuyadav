@@ -1,16 +1,11 @@
 <!-- Introduction Section -->
 <h3 align="center">Hey there! 👋 I'm Himanshu Yadav</h3>
 
+<img src="images/img1.png" alt="Developer image" width="300" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
 
+<h3>👨‍💻 About me:</h3>
 
-
-<h2>👨‍💻 About me:</h2>
-
-<div style="overflow: auto;">
-  <img src="images/img1.png" alt="Developer image" width="300" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
-
-  <pre>
-<code>
+```js
 const Himanshu = {
   role: "Self-Taught Developer",
   focus: "Full Stack Development & Real-Time Apps",
@@ -18,10 +13,7 @@ const Himanshu = {
   techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
   passion: "Building meaningful and useful tools 🚀"
 };
-</code>
-  </pre>
-</div>
-<div style="clear: both;"></div>
+```
 
 <br>
 
