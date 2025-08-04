@@ -1,7 +1,7 @@
 <!-- Introduction Section -->
 <h3 align="center">Hey there! 👋 I'm Himanshu Yadav</h3>
 
-<img src="images/img1.png" alt="Developer image" width="300" align="right" style="margin-left: 20px; margin-bottom: 10px;" />
+
 
 <h3>👨‍💻 About me:</h3>
 
