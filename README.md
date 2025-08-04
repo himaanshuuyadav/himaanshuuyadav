@@ -21,7 +21,7 @@ const Himanshu = {
 
 [![My Skills](https://skillicons.dev/icons?i=python,flask,git,github,vscode,vercel,html,css,js,kotlin,firebase,gcp)](https://skillicons.dev)
 
-
+<br>
 
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats:</h2>
@@ -32,6 +32,8 @@ const Himanshu = {
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshuuyadav&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
+
+<br>
 
 <!-- Connect with Me -->
 <h2>📫 Connect with Me:</h2>
