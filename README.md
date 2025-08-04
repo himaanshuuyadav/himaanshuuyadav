@@ -19,45 +19,26 @@ const Himanshu = {
 
 <h2>⚡ Tech Stack & Tools:</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,python,git,github,vscode,vercel&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,git,github,vscode,vercel,html,css,js,kotlin,firebase,gcp)](https://skillicons.dev)
 
-<br>
+
 
 <!-- GitHub Stats -->
 <h2>📈 GitHub Stats:</h2>
 
-<p align="center">
+<div align="center">
   
    ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaanshuuyadav&show_icons=true&hide_title=true&count_private=true&theme=radical&rank_icon=github)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshuuyadav&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-</p>
-
-
-
-<br>
-
+</div>
 
 <!-- Connect with Me -->
 <h2>📫 Connect with Me:</h2>
 
-<p align="left">
-  <a href="mailto:himaanshuuyadav@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/Himaanshuuyadav" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
-  </a>
-  <a href="https://www.instagram.com/himaanshuuyadav/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/@himaanshuuyadavv" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-</p>
 
-
-
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335&color=EA4335)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/yourprofile)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20&labelColor=000000&color=000000)](https://x.com/yourusername)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&labelColor=E4405F&color=E4405F)](https://instagram.com/yourusername)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20&labelColor=FF0000&color=FF0000)](https://youtube.com/@yourusername)
