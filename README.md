@@ -28,7 +28,8 @@ const Himanshu = {
 
 <div align="center">
   
-   ![GitHub Streak](https://streak-stats.demolab.com?user=himaanshuuyadav&theme=dark&hide_border=true)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=himaanshuuyadav&show_icons=true&hide_title=true&count_private=true&theme=radical&rank_icon=github)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himaanshuuyadav&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
