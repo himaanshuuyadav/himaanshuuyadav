@@ -40,8 +40,8 @@ const Himanshu = {
 <h2>📫 Connect with Me:</h2>
 
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335&color=EA4335)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/yourprofile)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20&labelColor=000000&color=000000)](https://x.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&labelColor=E4405F&color=E4405F)](https://instagram.com/yourusername)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20&labelColor=FF0000&color=FF0000)](https://youtube.com/@yourusername)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335&color=EA4335)](mailto:himaanshuuyadav.codes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/himaanshuuyadav)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoWidth=20&labelColor=E4405F&color=E4405F)](https://instagram.com/himaanshuuyadav)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoWidth=20&labelColor=FF0000&color=FF0000)](https://youtube.com/@himaanshuuyadav)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&logoWidth=20&labelColor=000000&color=000000)](https://x.com/himaanshuuyadav)
