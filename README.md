@@ -11,7 +11,7 @@ const Himanshu = {
   focus: "Full Stack Development & Real-Time Apps",
   hobbies: ["Coding", "Exploring tech", "Creating apps", "Gaming", "Chess"],
   techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
-  passion: "Building meaningful and useful tools 🚀"
+  passion: "Building meaningful and useful tools"
 };
 ```
 
