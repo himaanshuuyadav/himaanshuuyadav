@@ -10,7 +10,7 @@ const Himanshu = {
   role: "Self-Taught Developer",
   focus: "Full Stack Development & Real-Time Apps",
   hobbies: ["Coding", "Exploring tech", "Creating apps", "Gaming", "Chess"],
-  techStack: ["Flask", "Kotlin", "JavaScript", "SQLite", "Leaflet.js"],
+  techStack: ["Flask", "Kotlin", "JavaScript", "SQLite"],
   passion: "Building meaningful and useful tools"
 };
 ```
@@ -37,7 +37,6 @@ const Himanshu = {
 
 <!-- Connect with Me -->
 <h2>📫 Connect with Me:</h2>
-
 
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20&labelColor=EA4335&color=EA4335)](mailto:himaanshuuyadav.codes@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20&labelColor=0A66C2&color=0A66C2)](https://linkedin.com/in/himaanshuuyadav)
